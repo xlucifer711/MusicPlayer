@@ -26,7 +26,7 @@ from helpers.queues import QUEUE, add_to_queue, get_queue, clear_queue, pop_an_i
 from helpers.admin_check import *
 
 bot = Client(
-    "AyameMusic",
+    "MusicPlayer",
     bot_token = os.environ["BOT_TOKEN"],
     api_id = int(os.environ["API_ID"]),
     api_hash = os.environ["API_HASH"]
