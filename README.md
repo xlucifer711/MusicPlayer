@@ -10,7 +10,7 @@
 
 ## sᴛʀɪɴɢ sᴇssɪᴏɴ
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://t.me/Hana_Session_Bot)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-black)](https://t.me/Hana_Session_Bot)
 
 ## ɪғ ʏᴏᴜ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴏᴡɴᴇʀ [sᴜᴍɪᴛ ʏᴀᴅᴀᴠ](https://telegram.dog/Mr_Disaster_Xd)
 
