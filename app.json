@@ -1,0 +1,40 @@
+{
+  "name": "ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ",
+  "description": " ᴀ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏ ᴘʟᴀʏ ᴀᴜᴅɪᴏ ᴀɴᴅ ᴠɪᴅᴇᴏs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
+  "keywords": ["music", "voicechat", "telegram"],
+  "logo": "https://telegra.ph/file/9345f3f3eeaa6f47de344.jpg",
+  "repository": "https://github.com/Sumit9969/MusicPlayer",
+  "stack": "container",
+  "env": {
+    "SESSION_NAME": {
+      "description": "𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 𝚂𝚃𝚁𝙸𝙽𝙶 𝚂𝙴𝚂𝚂𝙸𝙾𝙽 𝙾𝙵 𝙰𝚂𝚂𝙸𝚂𝚃𝙰𝙽𝚃 𝙰𝙲𝙲𝙾𝚄𝙽𝚃. 𝙶𝙴𝚃 𝙸𝚃 𝙵𝚁𝙾𝙼 @Hana_Session_Bot",
+      "required": true,
+      "value": ""
+    },
+    "BOT_TOKEN": {
+      "description": "𝙰 𝙱𝙾𝚃_𝚃𝙾𝙺𝙴𝙽 𝙵𝚁𝙾𝙼 @BotFather",
+      "required": true,
+      "value": ""
+   },
+    "API_ID": {
+      "description": "𝙰 𝙰𝙿𝙸_𝙸𝙳 𝙵𝚁𝙾𝙼 my.telegram.org/apps",
+      "required": true,
+      "value": ""
+   },
+    "API_HASH": {
+      "description": "𝙰 𝙰𝙿𝙸_𝙷𝙰𝚂𝙷 𝙵𝚁𝙾𝙼 my.telegram.org/apps",
+      "required": true,
+      "value": ""
+   },
+    "SUPPORT": {
+      "description": "𝚄𝚂𝙴𝚁𝙽𝙰𝙼𝙴 𝙾𝙵 𝚃𝙷𝙴 𝙲𝙷𝙰𝚃 𝚆𝙷𝙴𝚁𝙴 𝚄𝚂𝙴𝚁𝚂 𝚆𝙸𝙻𝙻 𝙶𝙾 𝙰𝙽𝙳 𝙳𝙸𝚂𝚃𝚄𝚁𝙱 𝚈𝙾𝚄.(𝚆𝙸𝚃𝙷𝙾𝚄𝚃 @)",
+      "required": true,
+      "value": ""
+    },
+    "OWNER_ID": {
+      "description": "𝚈𝙾𝚄𝚁 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 𝙸𝙳",
+      "required": true,
+      "value": "5513481385"
+    }
+  }
+}
